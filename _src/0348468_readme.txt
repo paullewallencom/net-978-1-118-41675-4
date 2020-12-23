@@ -1,0 +1,7 @@
+You will notice that throughout the book are places where we suggest that you install a NuGet package to try out some sample code. Install-Package Wrox.ProMvc4.ExamplePackageNuGet is a package manager for .NET and Visual Studio, written by the Outercurve Foundation and incorporated by Microsoft into ASP.NET MVC. Rather than having to search around for zip files on the Wrox website for source code samples, you can use NuGet to easily add these files into an ASP.NET MVC application from the convenience of Visual Studio. We think this will make it much easier and painless to try out the samples, and hopefully you will be more likely to do so.
+
+Chapter 10 explains the NuGet system in detail and shows how you can install packages using either Visual Studio's Manage NuGet Packages dialog or the Package Manager Console. Additional information on how to use NuGet is available at http://docs.nuget.org/.
+
+All the code sample packages for this book are available in the official NuGet package feed. We understand that you may want to be able to download them for offline use as well, so you can download them all from here if you'd like.
+
+Enjoy.
